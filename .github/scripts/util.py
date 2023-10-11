@@ -7,10 +7,7 @@ import time
 os.environ['TZ'] = 'America/Los_Angeles'
 time.tzset()
 
-# SIMPLIFY_BUTTON = "https://i.imgur.com/kvraaHg.png"
-SIMPLIFY_BUTTON = "https://i.imgur.com/MXdpmi0.png" # says apply
 SHORT_APPLY_BUTTON = "https://i.imgur.com/w6lyvuC.png"
-SQUARE_SIMPLIFY_BUTTON = "https://i.imgur.com/aVnQdox.png"
 LONG_APPLY_BUTTON = "https://i.imgur.com/u1KNU8z.png"
 
 
@@ -39,17 +36,8 @@ def getLink(listing):
     if not listing["active"]:
         return "🔒"
     link = listing["url"] 
-    if "?" not in link:
-        link += "?utm_source=Simplify&ref=Simplify"
-    else:
-        link += "&utm_source=Simplify&ref=Simplify"
-    # return f'<a href="{link}" style="display: inline-block;"><img src="{SHORT_APPLY_BUTTON}" width="160" alt="Apply"></a>'
 
-    if listing["source"] != "Simplify":
-        return f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="118" alt="Apply"></a>'
-    
-    simplifyLink = "https://simplify.jobs/p/" + listing["id"] + "?utm_source=GHList"
-    return f'<a href="{link}"><img src="{SHORT_APPLY_BUTTON}" width="84" alt="Apply"></a> <a href="{simplifyLink}"><img src="{SQUARE_SIMPLIFY_BUTTON}" width="30" alt="Simplify"></a>'
+    return f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="118" alt="Apply"></a>'
 
 
 def create_md_table(listings, offSeason=False):
