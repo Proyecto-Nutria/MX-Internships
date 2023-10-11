@@ -22,7 +22,7 @@ Siguiendo el [repositorio de Pitt CSC & Simplify](https://github.com/SimplifyJob
 
 | Compañía | Rol | Lugar | Aplicación/Link | Fecha publicación |
 | ------- | ---- | -------- | ---------------- | ----------- |
-|  |  |  |  |  |
+| HP | Software Application Developer Intern 🇬🇧 | Tlaquepaque, Jalisco, Mexico | <a href="https://jobs.hp.com/jobdetails/18391763/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 

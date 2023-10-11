@@ -1,3 +1,22 @@
 [
-    
+    {
+        "date_updated": 1697007382,
+        "url": "https://jobs.hp.com/jobdetails/18391763/",
+        "company_name": "HP",
+        "title": "Software Application Developer Intern",
+        "locations": [
+            "Tlaquepaque, Jalisco, Mexico"
+        ],
+        "terms": [
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "akotadi",
+        "id": "75f1d0ec-cef9-4d48-917c-559d418bec8f",
+        "date_posted": 1697007382,
+        "company_url": "",
+        "is_visible": true
+    }
 ]
