@@ -1,0 +1,99 @@
+name: New Internship
+description: Contribute an internship to our list
+title: "New Internship"
+labels: ["new_internship"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Formulario para añadir un Internship
+        ¡Gracias por tomarte el tiempo de ayudarnos!
+        > Asegúrate de hacer leído el `CONTRIBUTING.md` antes de enviar el internship
+  - type: input
+    id: url
+    attributes:
+      label: Link a la publicación del Internship
+      placeholder: ex. example.com/link/to/posting
+    validations:
+      required: true
+  - type: input
+    id: company_name
+    attributes:
+      label: Nombre de la compañía
+      placeholder: ex. Google
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Título del Internship
+      placeholder: ex. ML Software Intern
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Lugar
+      description: |
+        ¿Dónde está ubicado?
+        Por favor separa los lugares con un *pipe* "|" si son varios lugares.
+        Incluye *Remote* si la opción de hacerlo remoto está disponible.
+      placeholder: ex. San Franciso, CA | Austin, TX | Remote
+    validations:
+      required: true
+  - type: dropdown
+    id: terms
+    attributes:
+      label: ¿En qué temporada es el internship?
+      multiple: true
+      options:
+        - Winter 2024
+        - Spring 2024
+        - Summer 2024
+        - Fall 2024
+    validations:
+      required: true
+  - type: dropdown
+    id: english
+    attributes:
+      label: ¿La posición necesita saber inglés?
+      description: |
+        Si la publicación no lo especifica, selecciona "Dunno" (aka "don't know")
+      multiple: false
+      options:
+        - "Yes"
+        - "No"
+        - "Dunno"
+    validations:
+      required: true
+  - type: dropdown
+    id: active
+    attributes:
+      label: ¿El internship está recibiendo aplicaciones actualmente?
+      multiple: false
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: input
+    id: email
+    attributes:
+      label: Email asociado a tu cuenta de GitHub (opcional)
+      description: |
+        Si quieres ser añadido como **Contributor** en el repositorio cuando el *github action* añada
+        tu contribución al repositorio, por favor añade tu email. Sólo usaremos tu email para esto. Si 
+        lo dejas en blanco, tu contribución será hecha de forma anónima por el bot actions@github.com.
+      placeholder: ex. firstLast@gmail.com
+    validations:
+      required: false
+  - type: textarea
+    id: reason
+    attributes:
+      label: Notas extra (opcional)
+      description: |
+        Opcionalmente puedes añadir contexto/información a nuestro equipo acerca del internship.
+        Esto no será mostrado en ningún lugar del repositorio, pero puede asegurar que tu contribución sea aceptada.
+      placeholder: This is an exciting new company in the vr space...
+    validations:
+      required: false

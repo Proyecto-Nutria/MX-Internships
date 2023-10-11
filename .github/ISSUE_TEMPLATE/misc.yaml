@@ -1,0 +1,17 @@
+name: Miscellaneous Issue
+description: Ask us a question or tell us what we could do better
+title: "<issue>"
+labels: ["misc"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por tomarte el tiempo de darnos retroalimentación
+  - type: textarea
+    id: misc
+    attributes:
+      label: Problema/Pregunta
+      description: Pregúntanos o dinos algo que podamos hacer mejor
+      placeholder: ex. There are a few internships that aren't actually technical...
+    validations:
+      required: true
