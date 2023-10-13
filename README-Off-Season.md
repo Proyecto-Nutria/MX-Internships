@@ -30,6 +30,7 @@ Siguiendo el [repositorio de Pitt CSC & Simplify](https://github.com/SimplifyJob
 
 ## Agradecemos a nuestros otter contributors ❤️❤️
 Contribuye enviando un [issue](https://github.com/Proyecto-Nutria/MX-Internships/issues/new/choose)!
+
 <a href="https://github.com/Proyecto-Nutria/mx-internships/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Proyecto-Nutria/mx-internships" />
 </a>
