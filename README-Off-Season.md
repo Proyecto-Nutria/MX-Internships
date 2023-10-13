@@ -29,9 +29,9 @@ Siguiendo el [repositorio de Pitt CSC & Simplify](https://github.com/SimplifyJob
 [⬆️ Sube pa'rriba ⬆️](https://github.com/Proyecto-Nutria/MX-Internships#la-lista-)
 
 ## Agradecemos a nuestros otter contributors ❤️❤️
-Contribute enviando un [issue](https://github.com/Proyecto-Nutria/MX-Internships/issues/new/choose)!
-<a href="https://github.com/Proyecto-Nutria/MX-Internships/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Proyecto-Nutria/MX-Internships" />
+Contribuye enviando un [issue](https://github.com/Proyecto-Nutria/MX-Internships/issues/new/choose)!
+<a href="https://github.com/Proyecto-Nutria/mx-internships/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Proyecto-Nutria/mx-internships" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks)
+Made with [contrib.rocks](https://contrib.rocks).
