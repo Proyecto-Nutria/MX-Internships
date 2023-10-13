@@ -18,5 +18,24 @@
         "date_posted": 1697007382,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697166757,
+        "url": "https://www.amazon.jobs/en/jobs/2337339/software-development-engineer-intern",
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Intern",
+        "locations": [
+            "Ciudad de Mexico, Mexico"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "axsseldz",
+        "id": "30e4fcb4-6bfe-4440-9a96-69a02f8116e1",
+        "date_posted": 1697166757,
+        "company_url": "",
+        "is_visible": true
     }
 ]
