@@ -40,7 +40,7 @@ body:
         ¿Dónde está ubicado?
         Por favor separa los lugares con un *pipe* "|" si son varios lugares.
         Incluye *Remote* si la opción de hacerlo remoto está disponible.
-      placeholder: ex. San Franciso, CA | Austin, TX | Remote
+      placeholder: ex. Ciudad de México, México | Tlaquepaque, Jalisco | Remoto
     validations:
       required: false
   - type: dropdown
