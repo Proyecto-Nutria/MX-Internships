@@ -41,7 +41,7 @@ jobs:
         if: success()
         uses: ad-m/github-push-action@v0.6.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GIT_TOKEN }}
           branch: master
 
       - name: Problem With Action

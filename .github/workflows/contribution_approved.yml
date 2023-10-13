@@ -44,17 +44,17 @@ jobs:
         if: success()
         uses: ad-m/github-push-action@v0.6.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GIT_TOKEN }}
           branch: master
 
       - name: Auto Close Issue
         run: gh issue close --comment "Your contribution was accepted. Auto-closing issue" ${{ github.event.issue.number }}
         if: success()
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GIT_TOKEN }}
 
       - name: Problem With Action
         run: gh issue comment ${{ github.event.issue.number }} --body "There was an error with our github action. Error - ${{ steps.python_script.outputs.error_message }} ${{ steps.python_script_readme.outputs.error_message }}"
         if: failure()
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GIT_TOKEN }}
