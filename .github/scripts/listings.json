@@ -37,5 +37,27 @@
         "date_posted": 1697166757,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697420395,
+        "url": "https://www.linkedin.com/jobs/view/3733773393/?alternateChannel=search&refId=nRwM7iMfKhFwXCXrW%2BksJA%3D%3D&trackingId=I2kZ2o9JsZM1II66o%2FnORQ%3D%3D",
+        "company_name": "IBM",
+        "title": "IT internship",
+        "locations": [
+            "Mexico City",
+            "Guadalajara",
+            "Monterrey",
+            "Queretaro"
+        ],
+        "terms": [
+            "Spring 2024"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "rafa238",
+        "id": "9408cb9e-2d0d-4bfb-838c-6258f3b81f9d",
+        "date_posted": 1697420395,
+        "company_url": "",
+        "is_visible": true
     }
 ]
