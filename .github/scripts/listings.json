@@ -59,5 +59,24 @@
         "date_posted": 1697420395,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697561793,
+        "url": "https://www.riotgames.com/en/work-with-us/job/5330414/software-engineering-intern-los-angeles-usa",
+        "company_name": "Riot Games",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Remoto"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "OscarSantosMu",
+        "id": "5ed10980-8e78-4e69-b331-59844687f8fb",
+        "date_posted": 1697561793,
+        "company_url": "",
+        "is_visible": true
     }
 ]
