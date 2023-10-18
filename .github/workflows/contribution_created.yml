@@ -1,0 +1,33 @@
+name: Contribution Created
+
+on:
+  issues:
+    types: ["labeled"]
+
+concurrency: add_internships
+
+jobs:
+  run-python-script:
+    runs-on: ubuntu-latest
+    if: github.event.label.name == 'new_internship' || github.event.label.name == 'edit_internship'
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.9"
+
+      - name: execute contribution_created.py
+        id: python_script
+        env:
+          GITHUB_EVENT_PATH: ${{ github.event_path }}
+        run: python .github/scripts/contribution_created.py $GITHUB_EVENT_PATH
+
+      - name: update title
+        run: gh issue edit ${{ github.event.issue.number }} --title "${{ steps.python_script.outputs.issue_title }}"
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

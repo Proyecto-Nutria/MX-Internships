@@ -6,7 +6,7 @@ Siguiendo el [repositorio de Pitt CSC & Simplify](https://github.com/SimplifyJob
 
 🙏 **¡Contribuye enviando un [issue](https://github.com/Proyecto-Nutria/MX-Internships/issues/new/choose)! Revisa las pautas para las contribuciones [aquí](./CONTRIBUTING.md)** 🙏
 
-> Este README es para **non-summer internships únicamente**. Para summer internships revisa [Summer 2024 README](./README.md).
+> Este README es para **non-summer internships únicamente**. Para summer internships revisa [Summer 2024 README](https://github.com/Proyecto-Nutria/MX-Internships).
 
 > Para FTE revisa [FTE README](https://github.com/Proyecto-Nutria/MX-FTE).
 
