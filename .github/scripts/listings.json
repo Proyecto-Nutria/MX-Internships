@@ -179,5 +179,24 @@
         "date_posted": 1697598838,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697652464,
+        "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/199622/?utm_medium=jobshare",
+        "company_name": "Oracle",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Zapopan, Jalisco"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "SoyAngelHdez",
+        "id": "1d4fcff0-35a9-48b3-92af-2c9b6e3160c4",
+        "date_posted": 1697652464,
+        "company_url": "",
+        "is_visible": true
     }
 ]
