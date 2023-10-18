@@ -159,5 +159,25 @@
         "date_posted": 1697598006,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697598838,
+        "url": "https://jobs.intel.com/en/job/-/-/599/54663562432",
+        "company_name": "Intel",
+        "title": "Software Validation Engineer",
+        "locations": [
+            "Guadalajara"
+        ],
+        "terms": [
+            "Winter 2024",
+            "Spring 2024"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "David-Lazaro-Fernandez",
+        "id": "9d89e1ac-22b8-4215-a71d-5a6ac0659789",
+        "date_posted": 1697598838,
+        "company_url": "",
+        "is_visible": true
     }
 ]
