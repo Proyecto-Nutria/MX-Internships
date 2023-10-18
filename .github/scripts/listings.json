@@ -78,5 +78,25 @@
         "date_posted": 1697561793,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697597577,
+        "url": "https://apply.hashedin.com/caf/?source=LinkedIn%20%E2%80%93%20Job%20Posting&jobTitle=Software%20Engineering%20Trainee&tenant_id=SVBF",
+        "company_name": "Deloitte",
+        "title": "Software Trainee",
+        "locations": [
+            "Quer\u00e9taro"
+        ],
+        "terms": [
+            "Winter 2024",
+            "Spring 2024"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "David-Lazaro-Fernandez",
+        "id": "8c7d26b0-790a-4db0-812c-1f3312997026",
+        "date_posted": 1697597577,
+        "company_url": "",
+        "is_visible": true
     }
 ]
