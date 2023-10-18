@@ -139,5 +139,25 @@
         "date_posted": 1697597670,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697598006,
+        "url": "https://careers.honeywell.com/us/en/job/HONEUSHRD905683EXTERNALENUS/PM-Engineering-Intern",
+        "company_name": "Honeywell",
+        "title": "PM Engineering Intern",
+        "locations": [
+            "Ciudad De M\u00e9xico"
+        ],
+        "terms": [
+            "Winter 2024",
+            "Spring 2024"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "David-Lazaro-Fernandez",
+        "id": "63029ce8-5d1b-4ad7-9ae0-30bc7f4148db",
+        "date_posted": 1697598006,
+        "company_url": "",
+        "is_visible": true
     }
 ]
