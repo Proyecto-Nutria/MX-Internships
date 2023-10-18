@@ -26,6 +26,7 @@ Siguiendo el [repositorio de Pitt CSC & Simplify](https://github.com/SimplifyJob
 
 | Compañía | Rol | Lugar | Temporada | Aplicación/Link | Fecha publicación |
 | ------- | ---- | -------- | ----- | ---------------- | ----------- |
+| Schneider Electric | IT Intern 🇬🇧 | Tlaxcala | Winter 2024, Spring 2024 | <a href="https://www.linkedin.com/jobs/view/3736653442"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Deloitte | Software Trainee 🇬🇧 | Querétaro | Winter 2024, Spring 2024 | <a href="https://apply.hashedin.com/caf/?source=LinkedIn%20%E2%80%93%20Job%20Posting&jobTitle=Software%20Engineering%20Trainee&tenant_id=SVBF"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | IBM | IT internship 🇬🇧 | <details><summary>**4 locations**</summary>Mexico City</br>Guadalajara</br>Monterrey</br>Queretaro</details> | Spring 2024 | <a href="https://www.linkedin.com/jobs/view/3733773393/trackingId=I2kZ2o9JsZM1II66o%2FnORQ%3D%3D"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | HP | Software Application Developer Intern 🇬🇧 | Tlaquepaque, Jalisco | Summer 2024, Fall 2024 | <a href="https://jobs.hp.com/jobdetails/18391763/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |

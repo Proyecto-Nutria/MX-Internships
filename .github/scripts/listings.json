@@ -98,5 +98,25 @@
         "date_posted": 1697597577,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697597630,
+        "url": "https://www.linkedin.com/jobs/view/3736653442",
+        "company_name": "Schneider Electric",
+        "title": "IT Intern",
+        "locations": [
+            "Tlaxcala"
+        ],
+        "terms": [
+            "Winter 2024",
+            "Spring 2024"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "David-Lazaro-Fernandez",
+        "id": "16582495-99cf-4220-b06c-5e89d714b302",
+        "date_posted": 1697597630,
+        "company_url": "",
+        "is_visible": true
     }
 ]
