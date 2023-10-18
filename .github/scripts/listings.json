@@ -118,5 +118,26 @@
         "date_posted": 1697597630,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697597670,
+        "url": "https://www.linkedin.com/jobs/view/3731038666/",
+        "company_name": "Teradata",
+        "title": "Engineer Intern",
+        "locations": [
+            "Tijuana",
+            "Remoto"
+        ],
+        "terms": [
+            "Winter 2024",
+            "Spring 2024"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "David-Lazaro-Fernandez",
+        "id": "c3d5e516-df36-4b69-b1f6-ce77b7c3abef",
+        "date_posted": 1697597670,
+        "company_url": "",
+        "is_visible": true
     }
 ]
