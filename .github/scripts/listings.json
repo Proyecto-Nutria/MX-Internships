@@ -198,5 +198,26 @@
         "date_posted": 1697652464,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697862853,
+        "url": "https://www.amazon.jobs/en/jobs/2459010/software-development-engineer-intern",
+        "company_name": "Amazon",
+        "title": "SDE Intern",
+        "locations": [
+            "Guadalajara, Jalisco"
+        ],
+        "terms": [
+            "Winter 2024",
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "Hector225",
+        "id": "4cc7a265-9f49-4584-85b0-858862a95eef",
+        "date_posted": 1697862853,
+        "company_url": "",
+        "is_visible": true
     }
 ]
