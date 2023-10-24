@@ -219,5 +219,24 @@
         "date_posted": 1697862853,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698181863,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1606821",
+        "company_name": "Microsoft",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Ciudad de M\u00e9xico"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "english": "Dunno",
+        "active": true,
+        "source": "930r91na",
+        "id": "6f487962-25e6-4e20-b646-7b8a9473c384",
+        "date_posted": 1698181863,
+        "company_url": "",
+        "is_visible": true
     }
 ]
