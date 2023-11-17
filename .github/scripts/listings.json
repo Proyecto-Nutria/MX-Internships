@@ -238,5 +238,24 @@
         "date_posted": 1698181863,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700200083,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7001934002?gh_jid=7001934002",
+        "company_name": "Lyft",
+        "title": "Software Engineer Intern - Frontend",
+        "locations": [
+            "Ciudad de Mexico, Mexico"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "axsseldz",
+        "id": "6e7f3aeb-09b9-4515-b517-942a04571b88",
+        "date_posted": 1700200083,
+        "company_url": "",
+        "is_visible": true
     }
 ]
