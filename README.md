@@ -24,7 +24,8 @@ Siguiendo el [repositorio de Pitt CSC & Simplify](https://github.com/SimplifyJob
 
 | Compañía | Rol | Lugar | Aplicación/Link | Fecha publicación |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Lyft | Software Engineer Intern - Frontend 🇬🇧 | Ciudad de Mexico, Mexico | <a href="https://app.careerpuck.com/job-board/lyft/job/7001934002?gh_jid=7001934002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
+| Lyft | Software Engineer Intern - Backend 🇬🇧 | Ciudad de Mexico, Mexico | <a href="https://app.careerpuck.com/job-board/lyft/job/7001922002?gh_jid=7001922002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
+| ↳ | Software Engineer Intern - Frontend 🇬🇧 | Ciudad de Mexico, Mexico | <a href="https://app.careerpuck.com/job-board/lyft/job/7001934002?gh_jid=7001934002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Microsoft | Software Engineering Intern | Ciudad de México | <a href="https://jobs.careers.microsoft.com/global/en/job/1606821"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | Amazon | SDE Intern 🇬🇧 | Guadalajara, Jalisco | <a href="https://www.amazon.jobs/en/jobs/2459010/software-development-engineer-intern"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | Oracle | Software Developer Intern 🇬🇧 | Zapopan, Jalisco | <a href="https://careers.oracle.com/jobs/#en/sites/jobsearch/job/199622/?utm_medium=jobshare"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |

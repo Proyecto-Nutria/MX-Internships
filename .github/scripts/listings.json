@@ -257,5 +257,24 @@
         "date_posted": 1700200083,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700200115,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7001922002?gh_jid=7001922002",
+        "company_name": "Lyft",
+        "title": "Software Engineer Intern - Backend",
+        "locations": [
+            "Ciudad de Mexico, Mexico"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "axsseldz",
+        "id": "f1dc8dd2-5962-471c-b65a-4bacb197613a",
+        "date_posted": 1700200115,
+        "company_url": "",
+        "is_visible": true
     }
 ]
