@@ -276,5 +276,24 @@
         "date_posted": 1700200115,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1701232636,
+        "url": "https://www.linkedin.com/jobs/view/3748786268",
+        "company_name": "Citibanamex",
+        "title": "Intern Data Scientist",
+        "locations": [
+            "Ciudad de M\u00e9xico, M\u00e9xico"
+        ],
+        "terms": [
+            "Fall 2024"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "daniel692a",
+        "id": "7d8d96b6-d0bf-42fd-9fc3-c800546a2340",
+        "date_posted": 1701232636,
+        "company_url": "",
+        "is_visible": true
     }
 ]

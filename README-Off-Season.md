@@ -26,6 +26,7 @@ Siguiendo el [repositorio de Pitt CSC & Simplify](https://github.com/SimplifyJob
 
 | Compañía | Rol | Lugar | Temporada | Aplicación/Link | Fecha publicación |
 | ------- | ---- | -------- | ----- | ---------------- | ----------- |
+| Citibanamex | Intern Data Scientist 🇬🇧 | Ciudad de México, México | Fall 2024 | <a href="https://www.linkedin.com/jobs/view/3748786268"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
 | Amazon | SDE Intern 🇬🇧 | Guadalajara, Jalisco | Winter 2024, Spring 2024, Summer 2024 | <a href="https://www.amazon.jobs/en/jobs/2459010/software-development-engineer-intern"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | Teradata | Engineer Intern 🇬🇧 | Tijuana</br>Remoto | Winter 2024, Spring 2024 | <a href="https://www.linkedin.com/jobs/view/3731038666/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Schneider Electric | IT Intern 🇬🇧 | Tlaxcala | Winter 2024, Spring 2024 | <a href="https://www.linkedin.com/jobs/view/3736653442"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
